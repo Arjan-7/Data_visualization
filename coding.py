@@ -26,7 +26,7 @@ built with Python, using this Kaggle dataset._
 # ---------------- LOAD DATA ----------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("social_media_impact_on_life.csv")
+    return pd.read_csv("Social_media_impact_on_life.csv")
 
 df = load_data()
 
