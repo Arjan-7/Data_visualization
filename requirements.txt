@@ -1,5 +1,4 @@
 streamlit
 pandas
 plotly
-cache_data()
-load_data()
+statsmodels
